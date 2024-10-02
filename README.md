@@ -1,3 +1,3 @@
-#Prueba Git
+Prueba Git
 # Fichero inicial del proyecto
-##Actualización desde repositorio en remoto
+Actualización desde repositorio en remoto
